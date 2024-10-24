@@ -1,36 +1,73 @@
-## Hi there 👋
+# 👋 Hello, I'm Faiz!  
+<img src="https://media.giphy.com/media/lcs5BL0NIM4WMv61a9/giphy.gif?cid=ecf05e47hsxebw42907k4tovk19zwohvtdavq1vtgejih78m&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="150" height=40 >
 
-<!--
-**faizpuad/faizpuad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Data Analytics & Engineering Enthusiast`**
 
-Here are some ideas to get you started:
+I'm an experience data analytics passionate in exploring in depth on data architecture.
+Full of excitement, I'm actively seeking new opportunity that suits my passion and constantly challenging myself to be a welll verse analytics engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 I’m currently working on building my data engineering portfolio.
+- 🌱 I’m currently learning `Airflow` and end to end `AWS` data engineering project.
+- 📫 How to reach me: [Your Email or Contact Method].
+- 😄 Pronouns: `Far East`
+- ⚡ Fun fact: Easy going on `out of norm` topics. Once an active futsal & takraw player.
 
-<div align="center">
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/197845567-86a09ca9-d96f-42c4-9ab1-8bce95ab000d.png" alt="Databricks" title="Databricks"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png" alt="Apache Spark" title="Apache Spark"/></code>
-	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f" alt="NumPy" title="NumPy"/></code>
-	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" alt="Pandas" title="Pandas"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="TensorFlow" title="TensorFlow"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" alt="kafka" title="kafka"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
-	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MSSQL" title="MSSQL"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code>
+## ✨ Quote I Live By
+"Stay curious, be humble, and keep on learning."
+
+## 🔥🌟 Featured Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faizpuad&repo=DataEngineeringProject-ScalableOlapSystemForCreditCradTransaction&theme=radical)](https://github.com/faizpuad/DataEngineeringProject-ScalableOlapSystemForCreditCradTransaction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faizpuad&repo=DataEngineeringProject-DocumentStreamingWithData&theme=radical)](https://github.com/faizpuad/DataEngineeringProject-DocumentStreamingWithData)
+
+<table> <tr> <td> <img src="https://img.icons8.com/clouds/100/000000/document.png" width="50"> </td> <td> <strong><a href="https://github.com/faizpuad/DataEngineeringProject-DocumentStreamingWithData">Real-Time Document Streaming with Kafka & Spark</a></strong><br> Harness the power of <b>Kafka</b> and <b>Spark</b> to build an efficient document streaming architecture. This end-to-end system delivers real-time data processing with MongoDB for seamless storage. </td> </tr> <tr> <td> <img src="https://img.icons8.com/clouds/100/000000/database.png" width="50"> </td> <td> <strong><a href="https://github.com/faizpuad/DataEngineeringProject-ScalableOlapSystemForCreditCradTransaction">Scalable OLAP System for Credit Card Transactions</a></strong><br> Dive into a robust OLAP system designed to scale and analyze large volumes of <b>credit card transactions</b>. Built with advanced data processing techniques, this project leverages <b>cloud-native</b> solutions for optimal performance. </td> </tr> </table>
+
+## 🛠️ Technologies & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" width="80" height="20"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" width="80" height="20"/>
+  <img src="https://img.shields.io/badge/-MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" width="80" height="20"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" width="80" height="20"/>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" width="80" height="20"/>
+  <img src="https://img.shields.io/badge/-Databricks-E53935?style=flat-square&logo=databricks&logoColor=white" width="80" height="20"/>
+  <img src="https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" width="80" height="20"/>
+  <img src="https://img.shields.io/badge/-Delta%20Lake-0EBB7E?style=flat-square&logo=databricks&logoColor=white" width="80" height="20"/>
+  <img src="https://img.shields.io/badge/-Power%20BI-F25028?style=flat-square&logo=powerbi&logoColor=white" width="80" height="20"/>
+  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" width="80" height="20"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" width="80" height="20"/>
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" width="80" height="20"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" width="80" height="20"/>
+  <img src="https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" width="80" height="20"/>
+  <img src="https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" width="80" height="20"/>
+  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" width="80" height="20"/>
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F20?style=flat-square&logo=tensorflow&logoColor=white" width="80" height="20"/>
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" width="80" height="20"/>
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" width="80" height="20"/>
+  <img src="https://img.shields.io/badge/-dbt-FF8B00?style=flat-square&logo=dbt&logoColor=white" width="80" height="20"/>
+</p>
+
+## 🏆 Achievements
+
+- 💻 **Certified Data Engineer Associate**:[DataCamp](https://github.com/tensorflow)
+- 🎖️ **Certified SQL Associate**:[DataCamp](https://github.com/tensorflow)
+
+## 📈 My GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faizpuad&theme=radical)
+
+## 🤝 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/faizpuad)
+[![Medium](https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium)](https://medium.com/@faizpuad1997)
+
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
+    <div style="margin-right: 20px;">
+        <img src="https://media.giphy.com/media/mP8GermRyOFWV8PQeq/giphy.gif?cid=ecf05e47uh37r2kd1amryvnryjuca13ujjcvx4o1a8tt8xgh&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="150" height="100">
+    </div>
+    <div style="font-size: 24px; font-weight: bold; flex-grow: 1;">
+        Thanks for visiting my profile! Feel free to explore my repositories and reach out if you want to collaborate or chat!
+    </div>
 </div>
