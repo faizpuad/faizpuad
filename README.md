@@ -20,8 +20,47 @@ Full of excitement, I'm actively seeking new opportunity that suits my passion a
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faizpuad&repo=DataEngineeringProject-ScalableOlapSystemForCreditCradTransaction&theme=radical)](https://github.com/faizpuad/DataEngineeringProject-ScalableOlapSystemForCreditCradTransaction)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faizpuad&repo=DataEngineeringProject-DocumentStreamingWithData&theme=radical)](https://github.com/faizpuad/DataEngineeringProject-DocumentStreamingWithData)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faizpuad&repo=DataScienceProject-DataCampCompletedProjectCollection&theme=radical)](https://github.com/faizpuad/DataScienceProject-DataCampCompletedProjectCollection)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faizpuad&repo=DataScienceProject-LoanDefaultAssessmentUsingClassificationAlgorithm&theme=radical)](https://github.com/faizpuad/DataScienceProject-LoanDefaultAssessmentUsingClassificationAlgorithm)
 
-<table> <tr> <td> <img src="https://img.icons8.com/clouds/100/000000/document.png" width="50"> </td> <td> <strong><a href="https://github.com/faizpuad/DataEngineeringProject-DocumentStreamingWithData">Real-Time Document Streaming with Kafka & Spark</a></strong><br> Harness the power of <b>Kafka</b> and <b>Spark</b> to build an efficient document streaming architecture. This end-to-end system delivers real-time data processing with MongoDB for seamless storage. </td> </tr> <tr> <td> <img src="https://img.icons8.com/clouds/100/000000/database.png" width="50"> </td> <td> <strong><a href="https://github.com/faizpuad/DataEngineeringProject-ScalableOlapSystemForCreditCradTransaction">Scalable OLAP System for Credit Card Transactions</a></strong><br> Dive into a robust OLAP system designed to scale and analyze large volumes of <b>credit card transactions</b>. Built with advanced data processing techniques, this project leverages <b>cloud-native</b> solutions for optimal performance. </td> </tr> </table>
+<table> 
+  <tr> 
+    <td> 
+      <img src="https://img.icons8.com/clouds/100/000000/document.png" width="50"> 
+    </td> 
+    <td> 
+      <strong><a href="https://github.com/faizpuad/DataEngineeringProject-DocumentStreamingWithData">Real-Time Document Streaming with Kafka & Spark</a></strong><br> 
+      Harness the power of <b>Kafka</b> and <b>Spark</b> to build an efficient document streaming architecture. This end-to-end system delivers real-time data processing with MongoDB for seamless storage. 
+    </td> 
+  </tr> 
+  <tr> 
+    <td> 
+      <img src="https://img.icons8.com/clouds/100/000000/database.png" width="50"> 
+    </td> 
+    <td> 
+      <strong><a href="https://github.com/faizpuad/DataEngineeringProject-ScalableOlapSystemForCreditCradTransaction">Scalable OLAP System for Credit Card Transactions</a></strong><br> 
+      Dive into a robust OLAP system designed to scale and analyze large volumes of <b>credit card transactions</b>. Built with advanced data processing techniques, this project leverages <b>cloud-native</b> solutions for optimal performance. 
+    </td> 
+  </tr> 
+  <tr> 
+    <td> 
+      <img src="https://img.icons8.com/clouds/100/000000/graduation-cap.png" width="50"> 
+    </td> 
+    <td> 
+      <strong><a href="https://github.com/faizpuad/DataScienceProject-DataCampCompletedProjectCollection">DataCamp Project Collection</a></strong><br> 
+      A curated collection of completed projects from <b>DataCamp</b> courses, demonstrating a wide range of data science techniques and tools across different datasets and problem spaces.
+    </td> 
+  </tr> 
+  <tr> 
+    <td> 
+      <img src="https://img.icons8.com/clouds/100/000000/loan.png" width="50"> 
+    </td> 
+    <td> 
+      <strong><a href="https://github.com/faizpuad/DataScienceProject-LoanDefaultAssessmentUsingClassificationAlgorithm">Loan Default Prediction with Classification Models</a></strong><br> 
+      An insightful project that assesses loan default risk using <b>classification algorithms</b>. This project explores data preprocessing, model selection, and evaluation to improve decision-making in financial services.
+    </td> 
+  </tr> 
+</table>
 
 ## 🛠️ Technologies & Tools
 <p align="left">
