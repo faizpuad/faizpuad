@@ -51,15 +51,15 @@ Full of excitement, I'm actively seeking new opportunity that suits my passion a
       A curated collection of completed projects from <b>DataCamp</b> courses, demonstrating a wide range of data science techniques and tools across different datasets and problem spaces.
     </td> 
   </tr> 
-  <tr> 
-    <td> 
-      <img src="https://img.icons8.com/clouds/100/000000/loan.png" width="50"> 
-    </td> 
-    <td> 
-      <strong><a href="https://github.com/faizpuad/DataScienceProject-LoanDefaultAssessmentUsingClassificationAlgorithm">Loan Default Prediction with Classification Models</a></strong><br> 
-      An insightful project that assesses loan default risk using <b>classification algorithms</b>. This project explores data preprocessing, model selection, and evaluation to improve decision-making in financial services.
-    </td> 
-  </tr> 
+<tr> 
+  <td> 
+    <img src="https://img.icons8.com/clouds/100/000000/bank.png" width="50"> 
+  </td> 
+  <td> 
+    <strong><a href="https://github.com/faizpuad/DataScienceProject-LoanDefaultAssessmentUsingClassificationAlgorithm">Loan Default Prediction with Classification Models</a></strong><br> 
+    An insightful project that assesses loan default risk using <b>classification algorithms</b>. This project explores data preprocessing, model selection, and evaluation to improve decision-making in financial services.
+  </td> 
+</tr>
 </table>
 
 ## 🛠️ Technologies & Tools
