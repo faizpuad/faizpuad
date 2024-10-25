@@ -52,8 +52,8 @@ Full of excitement, I'm actively seeking new opportunity that suits my passion a
 
 ## 🏆 Achievements
 
-- 💻 **Certified Data Engineer Associate**:[DataCamp](https://github.com/tensorflow)
-- 🎖️ **Certified SQL Associate**:[DataCamp](https://github.com/tensorflow)
+- 💻 **Certified Data Engineer Associate**:[DataCamp]([https://github.com/tensorflow](https://www.datacamp.com/certificate/DEA0016557134188))
+- 🎖️ **Certified SQL Associate**:[DataCamp]([https://github.com/tensorflow](https://www.datacamp.com/certificate/SQA0011266950160))
 
 ## 📈 My GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faizpuad&theme=radical)
