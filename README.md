@@ -1,17 +1,24 @@
 # 👋 Hello, I'm Faiz!  
-<img src="https://media.giphy.com/media/lcs5BL0NIM4WMv61a9/giphy.gif?cid=ecf05e47hsxebw42907k4tovk19zwohvtdavq1vtgejih78m&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="150" height=40 >
+<div style="background: linear-gradient(135deg, #c94b4b, #4b134f); padding: 10px; border-radius: 10px; color: white; text-align: center;">
+    <img src="https://media.giphy.com/media/lcs5BL0NIM4WMv61a9/giphy.gif?cid=ecf05e47hsxebw42907k4tovk19zwohvtdavq1vtgejih78m&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="150" height=40>
+    <br>
+    <b>Data Analytics & Engineering Enthusiast</b>
+</div>
 
-**`Data Analytics & Engineering Enthusiast`**
-
-I'm an experience data analytics passionate in exploring in depth on data architecture.
-Full of excitement, I'm actively seeking new opportunity that suits my passion and constantly challenging myself to be a welll verse analytics engineer.
+I'm an experienced data analytics enthusiast passionate about exploring data architecture. Full of excitement, I'm actively seeking new opportunities that suit my passion and constantly challenging myself to be a well-versed analytics engineer.
 
 ## 🚀 About Me
+
+<div style="background: linear-gradient(135deg, #c94b4b, #4b134f); padding: 10px; border-radius: 10px; color: white; padding: 15px;">
+
 - 🔭 I’m currently working on building my data engineering portfolio.
-- 🌱 I’m currently learning `Airflow` and end to end `AWS` data engineering project.
+- 🌱 I’m currently learning `Airflow` and end-to-end `AWS` data engineering project.
 - 📫 How to reach me: [Your Email or Contact Method].
 - 😄 Pronouns: `Far East`
-- ⚡ Fun fact: Easy going on `out of norm` topics. Once an active futsal & takraw player.
+- ⚡ Fun fact: Easy-going on `random` topics. Once an active futsal & takraw player.
+
+</div>
+
 
 ## ✨ Quote I Live By
 "Stay curious, be humble, and keep on learning."
@@ -63,7 +70,9 @@ Full of excitement, I'm actively seeking new opportunity that suits my passion a
 </table>
 
 ## 🛠️ Technologies & Tools
-<p align="left">
+
+<div style="background: linear-gradient(135deg, #c94b4b, #4b134f); padding: 15px; border-radius: 10px; color: white; display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" width="80" height="20"/>
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" width="80" height="20"/>
   <img src="https://img.shields.io/badge/-MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" width="80" height="20"/>
@@ -74,9 +83,6 @@ Full of excitement, I'm actively seeking new opportunity that suits my passion a
   <img src="https://img.shields.io/badge/-Delta%20Lake-0EBB7E?style=flat-square&logo=databricks&logoColor=white" width="80" height="20"/>
   <img src="https://img.shields.io/badge/-Power%20BI-F25028?style=flat-square&logo=powerbi&logoColor=white" width="80" height="20"/>
   <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" width="80" height="20"/>
-</p>
-
-<p align="left">
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" width="80" height="20"/>
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" width="80" height="20"/>
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" width="80" height="20"/>
@@ -87,12 +93,16 @@ Full of excitement, I'm actively seeking new opportunity that suits my passion a
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" width="80" height="20"/>
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" width="80" height="20"/>
   <img src="https://img.shields.io/badge/-dbt-FF8B00?style=flat-square&logo=dbt&logoColor=white" width="80" height="20"/>
-</p>
+
+</div>
 
 ## 🏆 Achievements
+<div style="background: linear-gradient(135deg, #c94b4b, #4b134f); padding: 10px; border-radius: 10px; color: white;">
 
 - 💻 **Certified Data Engineer Associate**: [DataCamp](https://www.datacamp.com/certificate/DEA0016557134188)
 - 🎖️ **Certified SQL Associate**: [DataCamp](https://www.datacamp.com/certificate/SQA0011266950160)
+
+</div>
 
 ## 📈 My GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faizpuad&theme=radical)
