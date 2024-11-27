@@ -12,8 +12,8 @@ I'm an experienced data analytics enthusiast passionate about exploring data arc
 <div style="background: linear-gradient(135deg, #c94b4b, #4b134f); padding: 10px; border-radius: 10px; color: white; padding: 15px;">
 
 - 🔭 I’m currently working on building my data engineering portfolio.
-- 🌱 I’m currently learning `Airflow` and end-to-end `AWS` data engineering project.
-- 📫 How to reach me: [Your Email or Contact Method].
+- 🌱 I’m currently learning `Airflow` and end-to-end OLTP streaming `AWS` data engineering project.
+- 📫 How to reach me: faizpuad1997@gmail.com
 - 😄 Pronouns: `Far East`
 - ⚡ Fun fact: Easy-going on `random` topics. Once an active futsal & takraw player.
 
