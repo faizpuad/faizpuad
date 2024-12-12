@@ -28,7 +28,7 @@ I'm an experienced data analytics enthusiast passionate about exploring data arc
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faizpuad&repo=DataEngineeringProject-ScalableOlapSystemForCreditCradTransaction&theme=radical)](https://github.com/faizpuad/DataEngineeringProject-ScalableOlapSystemForCreditCradTransaction)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faizpuad&repo=DataEngineeringProject-DocumentStreamingWithData&theme=radical)](https://github.com/faizpuad/DataEngineeringProject-DocumentStreamingWithData)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faizpuad&repo=DataEngineeringProject-AWSRealtimeCreditCardTrxPipeline&theme=radical)](https://github.com/faizpuad/DataEngineeringProject-AWSRealtimeCreditCardTrxPipeline)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faizpuad&repo=DataEngineeringProject-AWSRealtimeCreditCardTrxPipeline&theme=radical)](https://github.com/faizpuad/DataEngineeringProject-AWSRealtimeCreditCardTrxPipeline) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faizpuad&repo=DataScienceProject-LoanDefaultAssessmentUsingClassificationAlgorithm&theme=radical)](https://github.com/faizpuad/DataScienceProject-LoanDefaultAssessmentUsingClassificationAlgorithm)
 
 <table> 
