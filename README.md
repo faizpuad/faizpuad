@@ -115,7 +115,8 @@ I'm an experienced data analytics enthusiast passionate about exploring data arc
 </div>
 
 ## 📈 My GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats-eosin-ten.vercel.app?user=faizpuad&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## 🤝 Let's Connect!
 
