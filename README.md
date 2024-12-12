@@ -25,9 +25,10 @@ I'm an experienced data analytics enthusiast passionate about exploring data arc
 
 ## 🔥🌟 Featured Projects
 
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faizpuad&repo=DataEngineeringProject-ScalableOlapSystemForCreditCradTransaction&theme=radical)](https://github.com/faizpuad/DataEngineeringProject-ScalableOlapSystemForCreditCradTransaction)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faizpuad&repo=DataEngineeringProject-DocumentStreamingWithData&theme=radical)](https://github.com/faizpuad/DataEngineeringProject-DocumentStreamingWithData)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faizpuad&repo=DataScienceProject-DataCampCompletedProjectCollection&theme=radical)](https://github.com/faizpuad/DataScienceProject-DataCampCompletedProjectCollection)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faizpuad&repo=DataEngineeringProject-AWSRealtimeCreditCardTrxPipeline&theme=radical)](https://github.com/faizpuad/DataEngineeringProject-AWSRealtimeCreditCardTrxPipeline)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faizpuad&repo=DataScienceProject-LoanDefaultAssessmentUsingClassificationAlgorithm&theme=radical)](https://github.com/faizpuad/DataScienceProject-LoanDefaultAssessmentUsingClassificationAlgorithm)
 
 <table> 
@@ -48,6 +49,15 @@ I'm an experienced data analytics enthusiast passionate about exploring data arc
       <strong><a href="https://github.com/faizpuad/DataEngineeringProject-ScalableOlapSystemForCreditCradTransaction">Scalable OLAP System for Credit Card Transactions</a></strong><br> 
       Dive into a robust OLAP system designed to scale and analyze large volumes of <b>credit card transactions</b>. Built with advanced data processing techniques, this project leverages <b>cloud-native</b> solutions for optimal performance. 
     </td> 
+  </tr>
+  <tr> 
+    <td> 
+      <img src="https://img.icons8.com/fluency/48/cloud.png" width="50">
+    </td> 
+    <td> 
+      <strong><a href="https://github.com/faizpuad/DataEngineeringProject-AWSRealtimeCreditCardTrxPipeline">AWS Real-Time Credit Card Transaction Pipeline</a></strong><br> 
+      A cutting-edge <b>AWS</b>-powered data engineering project that implements a real-time credit card transaction processing pipeline. Leveraging cloud services for scalable, efficient data streaming and analysis.
+    </td> 
   </tr> 
   <tr> 
     <td> 
@@ -57,16 +67,16 @@ I'm an experienced data analytics enthusiast passionate about exploring data arc
       <strong><a href="https://github.com/faizpuad/DataScienceProject-DataCampCompletedProjectCollection">DataCamp Project Collection</a></strong><br> 
       A curated collection of completed projects from <b>DataCamp</b> courses, demonstrating a wide range of data science techniques and tools across different datasets and problem spaces.
     </td> 
-  </tr> 
-<tr> 
-  <td> 
-    <img src="https://img.icons8.com/clouds/100/000000/bank.png" width="50"> 
-  </td> 
-  <td> 
-    <strong><a href="https://github.com/faizpuad/DataScienceProject-LoanDefaultAssessmentUsingClassificationAlgorithm">Loan Default Prediction with Classification Models</a></strong><br> 
-    An insightful project that assesses loan default risk using <b>classification algorithms</b>. This project explores data preprocessing, model selection, and evaluation to improve decision-making in financial services.
-  </td> 
-</tr>
+  </tr>
+  <tr> 
+    <td> 
+      <img src="https://img.icons8.com/clouds/100/000000/bank.png" width="50"> 
+    </td> 
+    <td> 
+      <strong><a href="https://github.com/faizpuad/DataScienceProject-LoanDefaultAssessmentUsingClassificationAlgorithm">Loan Default Prediction with Classification Models</a></strong><br> 
+      An insightful project that assesses loan default risk using <b>classification algorithms</b>. This project explores data preprocessing, model selection, and evaluation to improve decision-making in financial services.
+    </td> 
+  </tr>
 </table>
 
 ## 🛠️ Technologies & Tools
