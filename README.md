@@ -13,7 +13,7 @@ I'm an experienced data analytics enthusiast passionate about exploring data arc
 
 - 🔭 I’m currently working on building my data engineering portfolio.
 - 🌱 I’m currently learning `Airflow` and end-to-end OLTP streaming `AWS` data engineering project.
-- 📫 How to reach me: faizpuad1997@gmail.com
+- 📫 How to reach me: faiz.b.puad@gmail.com
 - 😄 Pronouns: `Far East`
 - ⚡ Fun fact: Easy-going on `random` topics. Once an active futsal & takraw player.
 
